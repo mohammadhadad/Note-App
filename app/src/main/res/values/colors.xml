@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue2">#42A5F5</color>
+    <color name="blue">#1976D2</color>
+    <color name="accent">#00BCD4</color>
+
+    <color name="blue2Dark">#311B92</color>
+    <color name="blueDark">#1A237E</color>
+    <color name="accentDark">#006064</color>
+    <color name="black2Dark">#263238</color>
+    <color name="background">#f5f5f5</color>
+    <color name="hintcolor">#9E9E9E</color>
+</resources>
